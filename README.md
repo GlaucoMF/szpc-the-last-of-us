@@ -35,3 +35,15 @@ Bash
 cd nome-do-projeto
 
 3 - Abra o arquivo index.html em seu navegador de preferência.
+
+📂 Estrutura do Projeto:
+
+index.html: O arquivo principal da página web.
+
+styles.css: O arquivo de estilo, onde todo o CSS do projeto está.
+
+script.js: O arquivo de script, contendo a lógica em JavaScript.
+
+🤝 Contribuição:
+
+Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, ideia ou encontrar um bug, por favor, abra uma issue ou crie um pull request.
